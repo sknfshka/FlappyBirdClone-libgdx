@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Documents\ZombieBird\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d67b7acb8dd13661ea648a9f21fb76fe1fa13d2">
+        <dex dex="C:\Users\User\Documents\ZombieBird\android\build\intermediates\pre-dexed\debug\core-1.0_2e69a888b06a9a0df2c3dfbd5d13e4d60c1923d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.6\57c2831c870743712b808384187ea856e541878f\gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="C:\Users\User\Documents\ZombieBird\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.6_98ef3d0edd623a76498f2543c3ba9f6792a9e0e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.6\47d1e9b890e364ec28f128e9bb3b9a12a94c164\gdx-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="C:\Users\User\Documents\ZombieBird\android\build\intermediates\pre-dexed\debug\gdx-1.9.6_0bc2ddcbbb9511871e8db75dddf4bfafddae4a39.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\ZombieBird\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="030a0e60fbfc08eb97fbb3f12d7b9ef5af57de6a">
+        <dex dex="C:\Users\User\Documents\ZombieBird\android\build\intermediates\pre-dexed\debug\core-1.0_2e69a888b06a9a0df2c3dfbd5d13e4d60c1923d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\Documents\ZombieBird\libs\tween-engine-api.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8be8beb70b7ccae059d523e56670f6e44fb1821f">
+        <dex dex="C:\Users\User\Documents\ZombieBird\android\build\intermediates\pre-dexed\debug\tween-engine-api_28dc08af8da777baad669fd8a44468197c1e2871.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.6\57c2831c870743712b808384187ea856e541878f\gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="C:\Users\User\Documents\ZombieBird\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.6_98ef3d0edd623a76498f2543c3ba9f6792a9e0e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Documents\ZombieBird\libs\tween-engine-api.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8be8beb70b7ccae059d523e56670f6e44fb1821f">
+        <dex dex="C:\Users\User\Documents\ZombieBird\android\build\intermediates\pre-dexed\debug\tween-engine-api_28dc08af8da777baad669fd8a44468197c1e2871.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.6\47d1e9b890e364ec28f128e9bb3b9a12a94c164\gdx-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="C:\Users\User\Documents\ZombieBird\android\build\intermediates\pre-dexed\debug\gdx-1.9.6_0bc2ddcbbb9511871e8db75dddf4bfafddae4a39.jar" />
+    </item>
+
+</items>
